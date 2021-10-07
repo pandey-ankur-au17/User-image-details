@@ -1,0 +1,14 @@
+.container{
+    background-color: bisque;
+    height: 100vh;
+}
+
+.main{
+    padding-top: 30px;
+    display: grid;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.h1 .h3 .h5{
+    text-align: center;
+}

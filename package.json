@@ -1,0 +1,26 @@
+{
+  "name": "User-image-details",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandey-ankur-au17/User-image-details.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandey-ankur-au17/User-image-details/issues"
+  },
+  "homepage": "https://github.com/pandey-ankur-au17/User-image-details#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "mongoose": "^6.0.9",
+    "node": "^16.10.0"
+  }
+}
